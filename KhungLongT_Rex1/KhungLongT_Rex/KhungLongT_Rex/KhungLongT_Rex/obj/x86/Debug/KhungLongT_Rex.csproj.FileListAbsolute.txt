@@ -1,0 +1,91 @@
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.pdb
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Properties.Resources.resources
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.GenerateResource.Cache
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.exe
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.pdb
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csprojResolveAssemblyReference.cache
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.KhungLong.resources
+F:\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Home.resources
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.AssemblyReference.cache
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.pdb
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.KhungLong.resources
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Home.resources
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.GenerateResource.cache
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.pdb
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Properties.Resources.resources
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.CoreCompileInputs.cache
+C:\Users\THINH\source\repos\Khoá Luận 2019(C#)\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.exe
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe.config
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.pdb
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.AssemblyReference.cache
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.KhungLong.resources
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Home.resources
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Properties.Resources.resources
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.GenerateResource.cache
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.CoreCompileInputs.cache
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.exe
+C:\Users\Phuc\C#\T-Rex Demo\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.pdb
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe.config
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.pdb
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.AssemblyReference.cache
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.SuggestedBindingRedirects.cache
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.KhungLong.resources
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Home.resources
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Properties.Resources.resources
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.GenerateResource.cache
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.CoreCompileInputs.cache
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.exe
+D:\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.pdb
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe.config
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.pdb
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.AssemblyReference.cache
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.KhungLong.resources
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Home.resources
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Properties.Resources.resources
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.GenerateResource.cache
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.CoreCompileInputs.cache
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.exe
+C:\Users\Phuc\C#\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.pdb
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe.config
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.pdb
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.AssemblyReference.cache
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.SuggestedBindingRedirects.cache
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.KhungLong.resources
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Home.resources
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Properties.Resources.resources
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.GenerateResource.cache
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.CoreCompileInputs.cache
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.exe
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.pdb
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe.config
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.pdb
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.AssemblyReference.cache
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.SuggestedBindingRedirects.cache
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.KhungLong.resources
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Home.resources
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Properties.Resources.resources
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.GenerateResource.cache
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.CoreCompileInputs.cache
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.exe
+D:\KhungLongT\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.pdb
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe.config
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.exe
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\bin\Debug\KhungLongT_Rex.pdb
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.AssemblyReference.cache
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.SuggestedBindingRedirects.cache
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.KhungLong.resources
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Home.resources
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.Properties.Resources.resources
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.GenerateResource.cache
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.csproj.CoreCompileInputs.cache
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.exe
+D:\KhungLongT\KhungLongT_Rex1\KhungLongT_Rex\KhungLongT_Rex\KhungLongT_Rex\obj\x86\Debug\KhungLongT_Rex.pdb
